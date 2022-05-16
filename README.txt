@@ -1,7 +1,1 @@
-TR :
-
-Program Lorex tarafından kodlanmıştır!
-
-EN :
-
-This application coded by Lorex!
+Program Lorex tarafÃ½ndan kodlanmÃ½Ã¾tÃ½r!
